@@ -2,7 +2,7 @@ class BinarySearch():
 
     def binary_search_book(self, arr, item):
 
-        # Low and high keep tack of wich part of the list you'll search in
+        # Low and high keep tack of which part of the list you'll search in
         low = 0
         high = len(arr)-1
 
